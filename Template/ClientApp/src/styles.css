@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "assets/bootstrap.min.css";
+body { margin: 0; }
+
+.parallax-image { 
+    /* Add This Class To Your Html Tag And Specify Your Image in Background Image CSS Element */
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

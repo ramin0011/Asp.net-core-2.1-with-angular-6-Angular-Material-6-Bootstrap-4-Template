@@ -1,0 +1,43 @@
+
+
+
+agm-map {
+    height: 80vh;
+  }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgba(128, 128, 128, 0.644);
+    opacity: 1; /* Firefox */
+}
+ 
+  a {
+    color: darkblue;
+  }
+
+  .sidenav {
+    max-width: 600px;
+    box-shadow: 3px 0 6px rgba(0,0,0,.24);
+  }
+  
+  .image-cover{
+    object-fit: cover;
+    height: 100%;
+    min-height: 57px;
+  }
+
+  .example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .map-refresh-button{
+    position: relative;
+    bottom: 4vh;
+  }
+
+  agm-map {
+    height: 65vh;
+  }
