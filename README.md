@@ -1,3 +1,6 @@
+download the template from visual studio market place :
+https://marketplace.visualstudio.com/items?itemName=RaminMH.aspcoreangular6
+
 Aspnet core 2 with angular 6, Angular Material 6 and Bootstrap4
 
 Technologies :
