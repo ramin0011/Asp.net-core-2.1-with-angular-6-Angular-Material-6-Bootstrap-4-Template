@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSIXTemplate.2f60f513-5700-49f0-a207-59af62be3061" Version="1.0" Language="en-US" Publisher="Ramin Mohamad Hoseini" />
+        <Identity Id="VSIXTemplate.2f60f513-5700-49f0-a207-59af62be3061" Version="2.0" Language="en-US" Publisher="Ramin Mohamad Hoseini" />
         <DisplayName>Aspnet core 2 angular 6 Material 6 Bootstrap4</DisplayName>
         <Description xml:space="preserve">Aspnet core 2 with angular 6, Angular Material 6 and Bootstrap4</Description>
         <Tags>Asp.net core 2 , angular 6 , Angular Material 6 , Bootstrap 4</Tags>
