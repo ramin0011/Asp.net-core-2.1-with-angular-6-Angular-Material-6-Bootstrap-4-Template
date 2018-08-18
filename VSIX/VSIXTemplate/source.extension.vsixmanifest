@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="VSIXTemplate.2f60f513-5700-49f0-a207-59af62be3061" Version="1.0" Language="en-US" Publisher="Ramin Mohamad Hoseini" />
         <DisplayName>Aspnet core 2 angular 6 Material 6 Bootstrap4</DisplayName>
-        <Description xml:space="preserve">Asp.net core 2 with angular 6 , Angular Material 6 , Bootstrap 4</Description>
+        <Description xml:space="preserve">Aspnet core 2 with angular 6, Angular Material 6 and Bootstrap4</Description>
         <Tags>Asp.net core 2 , angular 6 , Angular Material 6 , Bootstrap 4</Tags>
     </Metadata>
     <Installation>
@@ -13,7 +13,7 @@
         <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
     </Dependencies>
     <Assets>
-        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\template.zip" />
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\CSharp\Web\t.zip" />
     </Assets>
     <Prerequisites>
         <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
